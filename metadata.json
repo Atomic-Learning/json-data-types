@@ -1,21 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "JSON: Data Types",
+    "slug": "json-data-types",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "json"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "json-introduction",
+        "scientific-notation-numbers"
     ],
     "related": [
-        "",
-        ""
+        "json-arrays",
+        "json-objects"
     ]
 }
