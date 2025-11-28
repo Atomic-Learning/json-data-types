@@ -9,10 +9,10 @@
     ],
     "duration": 3,
     "prerequisites": [
-        "json-introduction",
-        "scientific-notation-numbers"
+        "json-introduction"
     ],
     "related": [
+        "json-scientific-notation",
         "json-arrays",
         "json-objects"
     ]
