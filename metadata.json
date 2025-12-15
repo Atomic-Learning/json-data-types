@@ -1,6 +1,7 @@
 {
     "title": "JSON: Data Types",
     "slug": "json-data-types",
+    "description": "An introduction to data types in json files.",
     "authors": [
         "chris-cooling"
     ],
